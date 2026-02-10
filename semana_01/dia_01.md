@@ -34,10 +34,10 @@
 [Actualizadita todo todito]
 
 ### .gitignore
-[]
+[he tenido que crear un nano .gitignore]
 
 ### git add . vs git add archivo
-[Tu explicación]
+[he hecho un nano primero porque estaba indicado marcar el gitignore al principio del ejercicio, luego he hecho commit y push]
 
 ## 🔗 Recursos útiles
 
