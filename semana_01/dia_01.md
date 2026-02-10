@@ -13,11 +13,31 @@
 
 ## 💡 Lo que he aprendido
 
-[Escribe aquí lo más importante que te llevas del día]
+[Conseguir el SSH para poder hacer un push]
 
 ## ❓ Dudas que tengo
 
-[Anota aquí lo que necesitas repasar o preguntar]
+[Muchos comando git aún no me los se de memoria y tengo que estar buscándolos. Como antes trabajaba en Windows y ahora estoy trabajando en Ubunto, usar nano es muy nuevo, a la vez que interesante.]
+
+## 🔍 Comandos investigados
+
+### git log --oneline
+[me da un reporte en una línea (que no online)]
+
+### git remote -v
+[Me dice el estado remoto (que no remueve nada, madre como estoy)]
+
+### git branch
+[me dice que estoy en main]
+
+### git pull
+[Actualizadita todo todito]
+
+### .gitignore
+[]
+
+### git add . vs git add archivo
+[Tu explicación]
 
 ## 🔗 Recursos útiles
 
