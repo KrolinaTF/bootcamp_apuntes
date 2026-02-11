@@ -37,7 +37,7 @@
 [he tenido que crear un nano .gitignore]
 
 ### git add . vs git add archivo
-[he hecho un nano primero porque estaba indicado marcar el gitignore al principio del ejercicio, luego he hecho commit y push]
+[he hecho un nano primero porque no estaba indicado marcar el gitignore al principio del ejercicio, luego he hecho commit y push]
 
 ## 🔗 Recursos útiles
 
